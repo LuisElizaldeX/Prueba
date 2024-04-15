@@ -330,6 +330,12 @@ public class FXMLPrincipalController implements Initializable {
     @FXML
     private void menuClickIrUltimoElemento(ActionEvent event) {
         tabPaneOpciones.getSelectionModel().selectLast();
+        //Hola buenas tardes
+        
+    }
+    
+    private void menu(){
+        
     }
     
 }
